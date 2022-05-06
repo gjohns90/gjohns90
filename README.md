@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Grant Johnson
+- 👀 I’m interested in front end development
+- 🌱 I’m currently learning responsive web design
+- 💞️ I’m looking to collaborate on newer front end products 
+- 📫 Reach me at grant.johnson@optum.com
